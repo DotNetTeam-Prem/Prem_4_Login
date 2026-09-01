@@ -1,0 +1,6 @@
+@Prem_4_Login_HostAddress = http://localhost:5268
+
+GET {{Prem_4_Login_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

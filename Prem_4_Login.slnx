@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Prem_4_Login.Web/Prem_4_Login.Web.csproj" />
+  <Project Path="Prem_4_Login/Prem_4_Login.API.csproj" />
+</Solution>
